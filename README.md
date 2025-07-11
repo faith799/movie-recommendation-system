@@ -260,12 +260,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 **Email**: your-email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/movieflix/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/movieflix/discussions)
+- 📧 **Email**: georgemathew2716@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/faith799/movie-recommendation-system/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/faith799/movie-recommendation-system/discussions)
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [George Mathew](https://github.com/faith799)**
 
 ⭐ **Star this repository if you found it helpful!**
