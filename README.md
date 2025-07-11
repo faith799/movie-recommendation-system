@@ -2,7 +2,7 @@
 
 A modern, responsive movie recommendation system built with Next.js, React, and TypeScript. Features intelligent recommendations, advanced filtering, and a Netflix-inspired dark theme interface.
 
-![MovieFlix Screenshot](https://via.placeholder.com/800x400/000000/FFFFFF?text=MovieFlix+Screenshot)
+https://v0-expense-tracking-fbx8uc355-vakkachens-projects.vercel.app/ preview
 
 ## ✨ Features
 
